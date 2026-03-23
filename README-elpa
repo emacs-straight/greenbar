@@ -6,9 +6,6 @@
                      [Tue May 27 19:35:08 EDT 2025]
 
 
-
-
-
 1 Summary
 ═════════
 
@@ -68,8 +65,8 @@
   │ (require 'greenbar)
   │ 
   │ (setopt greenbar-lines-per-bar      3
-  │ 	greenbar-background-colors  'greenbar
-  │ 	greenbar-highlight-input    nil)
+  │         greenbar-background-colors  'greenbar
+  │         greenbar-highlight-input    nil)
   │ 
   │ (add-hook 'comint-mode-hook #'greenbar-mode)
   └────

@@ -1,9 +1,9 @@
 ;;; greenbar.el --- Mark comint output with "greenbar" background -*- lexical-binding: t -*-
 
-;; Copyright (C) 2013-2025  Free Software Foundation, Inc.
+;; Copyright (C) 2013-2026  Free Software Foundation, Inc.
 
 ;; Author: Michael R. Mauger <michael@mauger.com>
-;; Version: 1.2
+;; Version: 1.2.260317
 ;; SPDX-License-Identifier: GPL-3.0-or-later
 ;; Package-Type: simple
 ;; Package-Requires: ((emacs "27.1"))
@@ -217,5 +217,7 @@ set of background colors found in
                  #'greenbar-output-filter t)))
 
 (provide 'greenbar)
-
+;; Local Variables:
+;; time-stamp-pattern: "20/Version:[\s\t]*\\(?:[[:digit:]]+[.]\\)+%y%m%d\n"
+;; End:
 ;;; greenbar.el ends here

@@ -1,2 +1,2 @@
-;; Generated package description from greenbar.el  -*- no-byte-compile: t -*-
-(define-package "greenbar" "1.2.0.20250603.210745" "Mark comint output with \"greenbar\" background" '((emacs "27.1")) :commit "755163adea1480d3ee85ace02987456d92992d70" :url "https://elpa.gnu.org/packages/greenbar.html" :authors '(("Michael R. Mauger" . "michael@mauger.com")) :maintainer '("Michael R. Mauger" . "michael@mauger.com") :keywords '("faces" "terminals"))
+;; Generated package description from greenbar.el  -*- no-byte-compile: t; lexical-binding:t -*-
+(define-package "greenbar" "1.2.260317.0.20260317.232500" "Mark comint output with \"greenbar\" background" '((emacs "27.1")) :commit "eedbec6a0c56be403fdbe0b1f38a4acd4f11d09b" :url "https://elpa.gnu.org/packages/greenbar.html" :authors '(("Michael R. Mauger" . "michael@mauger.com")) :maintainer '("Michael R. Mauger" . "michael@mauger.com") :keywords '("faces" "terminals"))
